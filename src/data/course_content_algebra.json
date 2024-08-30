@@ -1,0 +1,212 @@
+[
+  {
+    "id": 2,
+    "name": "Algebra 1 Basics",
+    "chapters": [
+      {
+        "chapter_number": "1",
+        "title": "Foundations of Algebra",
+        "summary": "Introduction to basic algebraic concepts including variables, expressions, and equations.",
+        "url": "sampleURL1",
+        "duration": "2:00:00",
+        "sections": [
+          {
+            "id": 1,
+            "title": "Understanding Variables",
+            "pages": [
+              {
+                "title": "What are Variables?",
+                "body": "Variables are symbols used to represent unknown values..."
+              },
+              {
+                "title": "Using Variables in Expressions",
+                "body": "Learn how variables are used in algebraic expressions..."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Algebraic Expressions",
+            "pages": [
+              {
+                "title": "Writing Expressions",
+                "body": "Learn how to write algebraic expressions..."
+              },
+              {
+                "title": "Simplifying Expressions",
+                "body": "Learn how to simplify algebraic expressions..."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Basic Equations",
+            "pages": [
+              {
+                "title": "Solving Simple Equations",
+                "body": "Learn how to solve simple algebraic equations..."
+              },
+              {
+                "title": "Understanding Equality",
+                "body": "Understand the concept of equality in algebra..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_number": "2",
+        "title": "Operations with Numbers and Variables",
+        "summary": "Explore operations with real numbers and variables including addition, subtraction, multiplication, and division.",
+        "url": "sampleURL2",
+        "duration": "2:15:00",
+        "sections": [
+          {
+            "id": 1,
+            "title": "Addition and Subtraction",
+            "pages": [
+              {
+                "title": "Adding and Subtracting Numbers",
+                "body": "Learn how to add and subtract real numbers..."
+              },
+              {
+                "title": "Adding and Subtracting Variables",
+                "body": "Learn how to add and subtract algebraic terms..."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Multiplication and Division",
+            "pages": [
+              {
+                "title": "Multiplying and Dividing Numbers",
+                "body": "Learn how to multiply and divide real numbers..."
+              },
+              {
+                "title": "Multiplying and Dividing Variables",
+                "body": "Learn how to multiply and divide algebraic terms..."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Order of Operations",
+            "pages": [
+              {
+                "title": "Understanding PEMDAS",
+                "body": "Learn the order of operations using PEMDAS..."
+              },
+              {
+                "title": "Applying Order of Operations",
+                "body": "Apply the order of operations in complex expressions..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_number": "3",
+        "title": "Solving Equations",
+        "summary": "Learn how to solve linear equations and understand the principles behind solving equations.",
+        "url": "sampleURL3",
+        "duration": "2:30:00",
+        "sections": [
+          {
+            "id": 1,
+            "title": "One-Step Equations",
+            "pages": [
+              {
+                "title": "Solving One-Step Equations",
+                "body": "Learn how to solve equations that require only one operation..."
+              },
+              {
+                "title": "Understanding Inverse Operations",
+                "body": "Understand the role of inverse operations in solving equations..."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Two-Step Equations",
+            "pages": [
+              {
+                "title": "Solving Two-Step Equations",
+                "body": "Learn how to solve equations that require two operations..."
+              },
+              {
+                "title": "Checking Solutions",
+                "body": "Learn how to check if your solution is correct..."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Equations with Variables on Both Sides",
+            "pages": [
+              {
+                "title": "Balancing Equations",
+                "body": "Learn how to solve equations with variables on both sides..."
+              },
+              {
+                "title": "Understanding Solutions to Equations",
+                "body": "Understand different types of solutions for linear equations..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "chapter_number": "4",
+        "title": "Introduction to Inequalities",
+        "summary": "Explore the basics of inequalities and how to solve them.",
+        "url": "sampleURL4",
+        "duration": "2:00:00",
+        "sections": [
+          {
+            "id": 1,
+            "title": "Understanding Inequalities",
+            "pages": [
+              {
+                "title": "What are Inequalities?",
+                "body": "Learn what inequalities are and how they differ from equations..."
+              },
+              {
+                "title": "Graphing Inequalities",
+                "body": "Learn how to graph inequalities on a number line..."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Solving One-Step Inequalities",
+            "pages": [
+              {
+                "title": "Solving Inequalities with Addition and Subtraction",
+                "body": "Learn how to solve one-step inequalities using addition and subtraction..."
+              },
+              {
+                "title": "Solving Inequalities with Multiplication and Division",
+                "body": "Learn how to solve one-step inequalities using multiplication and division..."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Compound Inequalities",
+            "pages": [
+              {
+                "title": "Solving Compound Inequalities",
+                "body": "Learn how to solve compound inequalities involving 'and' and 'or'..."
+              },
+              {
+                "title": "Graphing Compound Inequalities",
+                "body": "Learn how to graph the solution sets of compound inequalities..."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

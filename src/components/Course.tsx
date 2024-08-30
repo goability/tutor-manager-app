@@ -13,7 +13,7 @@ const Course: React.FC = () => {
 
   return (
     <div className='course_container'>
-      <CourseContent />
+      <CourseContent courseName={course_name} />
      
     </div>
   );

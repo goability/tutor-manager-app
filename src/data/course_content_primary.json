@@ -1,0 +1,320 @@
+
+    [
+       {
+        "id": 5,
+        "name": "Multiplication and Beyond (Grades 3-6)",
+        "chapters": [
+          {
+            "chapter_number": "1",
+            "title": "Introduction to Multiplication",
+            "summary": "Basic concepts of multiplication, including understanding and applying the multiplication operation.",
+            "url": "sampleURL1",
+            "duration": "1:30:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Understanding Multiplication",
+                "pages": [
+                  {
+                    "title": "What is Multiplication?",
+                    "body": "Multiplication is a mathematical operation that represents repeated addition..."
+                  },
+                  {
+                    "title": "Multiplication as Repeated Addition",
+                    "body": "Learn how to view multiplication as adding the same number several times..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Multiplication Facts",
+                "pages": [
+                  {
+                    "title": "Multiplication Tables (1-5)",
+                    "body": "Master the multiplication tables from 1 to 5 with exercises and practice..."
+                  },
+                  {
+                    "title": "Multiplication Tables (6-10)",
+                    "body": "Continue learning multiplication tables from 6 to 10..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Properties of Multiplication",
+                "pages": [
+                  {
+                    "title": "Commutative Property",
+                    "body": "Understand that in multiplication, the order of numbers doesn't change the result..."
+                  },
+                  {
+                    "title": "Associative Property",
+                    "body": "Learn how grouping numbers differently in multiplication doesn't change the product..."
+                  },
+                  {
+                    "title": "Distributive Property",
+                    "body": "Explore how to distribute multiplication over addition..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "2",
+            "title": "Advanced Multiplication Techniques",
+            "summary": "Explore techniques to multiply larger numbers and solve multiplication problems more efficiently.",
+            "url": "sampleURL2",
+            "duration": "2:00:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Multiplying Larger Numbers",
+                "pages": [
+                  {
+                    "title": "Two-Digit Multiplication",
+                    "body": "Learn how to multiply two-digit numbers step-by-step..."
+                  },
+                  {
+                    "title": "Three-Digit Multiplication",
+                    "body": "Advance to multiplying three-digit numbers with examples and practice..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Word Problems with Multiplication",
+                "pages": [
+                  {
+                    "title": "Solving Multiplication Word Problems",
+                    "body": "Apply multiplication to solve real-world problems presented in word form..."
+                  },
+                  {
+                    "title": "Strategies for Word Problems",
+                    "body": "Learn strategies to break down and solve word problems involving multiplication..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Estimation and Mental Math",
+                "pages": [
+                  {
+                    "title": "Estimating Products",
+                    "body": "Learn how to estimate the results of multiplication to check your work..."
+                  },
+                  {
+                    "title": "Mental Math Strategies",
+                    "body": "Develop strategies for multiplying numbers quickly in your head..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "3",
+            "title": "Division as Inverse of Multiplication",
+            "summary": "Understand division and its relationship with multiplication.",
+            "url": "sampleURL3",
+            "duration": "1:45:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Introduction to Division",
+                "pages": [
+                  {
+                    "title": "What is Division?",
+                    "body": "Division is the operation of splitting a total into equal parts..."
+                  },
+                  {
+                    "title": "Division and Multiplication Relationship",
+                    "body": "Understand how division is the inverse operation of multiplication..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Division Facts",
+                "pages": [
+                  {
+                    "title": "Division Tables",
+                    "body": "Learn and practice division tables similar to multiplication tables..."
+                  },
+                  {
+                    "title": "Division with Remainders",
+                    "body": "Understand how to handle division when the numbers don't divide evenly..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Long Division",
+                "pages": [
+                  {
+                    "title": "Step-by-Step Long Division",
+                    "body": "Learn how to perform long division with larger numbers..."
+                  },
+                  {
+                    "title": "Long Division with Remainders",
+                    "body": "Practice long division problems that result in remainders..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "4",
+            "title": "Introduction to Fractions",
+            "summary": "Learn the basics of fractions, including multiplication and division of fractions.",
+            "url": "sampleURL4",
+            "duration": "2:00:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Understanding Fractions",
+                "pages": [
+                  {
+                    "title": "What are Fractions?",
+                    "body": "Fractions represent parts of a whole and are written as one number over another..."
+                  },
+                  {
+                    "title": "Equivalent Fractions",
+                    "body": "Learn how to find and work with fractions that have different numerators and denominators but represent the same value..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Multiplying Fractions",
+                "pages": [
+                  {
+                    "title": "How to Multiply Fractions",
+                    "body": "Learn the steps to multiply fractions, including simplifying the result..."
+                  },
+                  {
+                    "title": "Multiplication with Mixed Numbers",
+                    "body": "Explore how to multiply mixed numbers (whole numbers and fractions combined)..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Dividing Fractions",
+                "pages": [
+                  {
+                    "title": "How to Divide Fractions",
+                    "body": "Learn how to divide fractions by multiplying by the reciprocal..."
+                  },
+                  {
+                    "title": "Division with Mixed Numbers",
+                    "body": "Understand how to divide mixed numbers, including converting them into improper fractions..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "5",
+            "title": "Decimals and Percents",
+            "summary": "Introduction to decimals and percents, including their relationship with fractions.",
+            "url": "sampleURL5",
+            "duration": "2:15:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Understanding Decimals",
+                "pages": [
+                  {
+                    "title": "What are Decimals?",
+                    "body": "Decimals are another way to represent fractions, specifically those with denominators that are powers of 10..."
+                  },
+                  {
+                    "title": "Converting Fractions to Decimals",
+                    "body": "Learn how to convert fractions into decimals by dividing the numerator by the denominator..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Multiplying and Dividing Decimals",
+                "pages": [
+                  {
+                    "title": "Multiplying Decimals",
+                    "body": "Explore how to multiply numbers with decimal points..."
+                  },
+                  {
+                    "title": "Dividing Decimals",
+                    "body": "Learn the process of dividing decimals, including adjusting the decimal point..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Introduction to Percents",
+                "pages": [
+                  {
+                    "title": "What are Percents?",
+                    "body": "Percents are a way of expressing a number as a fraction of 100..."
+                  },
+                  {
+                    "title": "Converting Between Percents, Fractions, and Decimals",
+                    "body": "Understand how to convert numbers between percents, fractions, and decimals..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "6",
+            "title": "Introduction to Geometry",
+            "summary": "Explore basic geometric concepts that will lead into algebraic thinking.",
+            "url": "sampleURL6",
+            "duration": "2:30:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Basic Shapes and Figures",
+                "pages": [
+                  {
+                    "title": "Identifying Shapes",
+                    "body": "Learn to identify basic geometric shapes such as circles, squares, triangles, and rectangles..."
+                  },
+                  {
+                    "title": "Properties of Shapes",
+                    "body": "Explore the properties of these shapes, such as the number of sides and angles..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Perimeter and Area",
+                "pages": [
+                  {
+                    "title": "Calculating Perimeter",
+                    "body": "Learn how to calculate the perimeter of various shapes..."
+                  },
+                  {
+                    "title": "Calculating Area",
+                    "body": "Understand how to calculate the area of simple geometric figures..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Introduction to Volume",
+                "pages": [
+                  {
+                    "title": "What is Volume?",
+                    "body": "Volume measures how much space an object takes up. Learn the basics of calculating volume for cubes and rectangular prisms..."
+                  },
+                  {
+                    "title": "Volume of Irregular Shapes",
+                    "body": "Explore how to approximate the volume of more complex shapes..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  
