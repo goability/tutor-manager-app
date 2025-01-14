@@ -1,0 +1,329 @@
+[
+      {
+        "id": 6,
+        "name": "Geometry",
+        "chapters": [
+          {
+            "chapter_number": "1",
+            "title": "Introduction to Geometry",
+            "summary": "Learn the basic concepts and terminology of geometry, including points, lines, and planes.",
+            "url": "sampleURL1",
+            "duration": "1:30:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Basic Geometric Concepts",
+                "pages": [
+                  {
+                    "title": "Points, Lines, and Planes",
+                    "body": "Understand the foundational elements of geometry: points, lines, and planes..."
+                  },
+                  {
+                    "title": "Line Segments and Rays",
+                    "body": "Learn the differences between line segments and rays, and how to represent them..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Angles and Their Types",
+                "pages": [
+                  {
+                    "title": "Understanding Angles",
+                    "body": "Explore the concept of angles, including how to measure them in degrees..."
+                  },
+                  {
+                    "title": "Types of Angles",
+                    "body": "Learn about different types of angles, such as acute, obtuse, right, and straight angles..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Geometric Relationships",
+                "pages": [
+                  {
+                    "title": "Parallel and Perpendicular Lines",
+                    "body": "Learn the characteristics of parallel and perpendicular lines, and how to identify them..."
+                  },
+                  {
+                    "title": "Angle Relationships",
+                    "body": "Explore angle relationships, such as complementary, supplementary, and vertical angles..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "2",
+            "title": "Triangles",
+            "summary": "Dive into the study of triangles, including types, properties, and theorems.",
+            "url": "sampleURL2",
+            "duration": "2:00:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Types of Triangles",
+                "pages": [
+                  {
+                    "title": "Classifying Triangles by Sides",
+                    "body": "Learn about different types of triangles based on their sides: equilateral, isosceles, and scalene..."
+                  },
+                  {
+                    "title": "Classifying Triangles by Angles",
+                    "body": "Explore the classification of triangles based on their angles: acute, obtuse, and right triangles..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Triangle Properties",
+                "pages": [
+                  {
+                    "title": "The Pythagorean Theorem",
+                    "body": "Understand the Pythagorean Theorem and how it applies to right triangles..."
+                  },
+                  {
+                    "title": "Triangle Inequality Theorem",
+                    "body": "Learn about the triangle inequality theorem and its implications for the sides of a triangle..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Congruence and Similarity",
+                "pages": [
+                  {
+                    "title": "Congruent Triangles",
+                    "body": "Explore the concept of congruence and the criteria for triangles to be congruent..."
+                  },
+                  {
+                    "title": "Similar Triangles",
+                    "body": "Learn about similar triangles, including the criteria for similarity and applications..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "3",
+            "title": "Quadrilaterals and Polygons",
+            "summary": "Study the properties of quadrilaterals and other polygons.",
+            "url": "sampleURL3",
+            "duration": "2:15:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Quadrilaterals",
+                "pages": [
+                  {
+                    "title": "Types of Quadrilaterals",
+                    "body": "Learn about different types of quadrilaterals, such as squares, rectangles, parallelograms, and trapezoids..."
+                  },
+                  {
+                    "title": "Properties of Quadrilaterals",
+                    "body": "Explore the properties of various quadrilaterals, including angle sums and side relationships..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Polygons",
+                "pages": [
+                  {
+                    "title": "Introduction to Polygons",
+                    "body": "Understand what polygons are, including the definition and classification by the number of sides..."
+                  },
+                  {
+                    "title": "Regular and Irregular Polygons",
+                    "body": "Learn the differences between regular and irregular polygons, and how to calculate their interior and exterior angles..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Area and Perimeter of Polygons",
+                "pages": [
+                  {
+                    "title": "Calculating Perimeter",
+                    "body": "Learn how to calculate the perimeter of various polygons..."
+                  },
+                  {
+                    "title": "Calculating Area",
+                    "body": "Understand how to calculate the area of common polygons, including triangles, quadrilaterals, and regular polygons..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "4",
+            "title": "Circles",
+            "summary": "Explore the properties of circles, including circumference, area, and theorems involving chords, tangents, and arcs.",
+            "url": "sampleURL4",
+            "duration": "2:30:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Basic Properties of Circles",
+                "pages": [
+                  {
+                    "title": "Parts of a Circle",
+                    "body": "Learn about the different parts of a circle, including radius, diameter, chord, arc, and sector..."
+                  },
+                  {
+                    "title": "Circumference and Area",
+                    "body": "Understand how to calculate the circumference and area of a circle using formulas..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Angles in Circles",
+                "pages": [
+                  {
+                    "title": "Central and Inscribed Angles",
+                    "body": "Explore the properties of central and inscribed angles, and how they relate to the arcs they intercept..."
+                  },
+                  {
+                    "title": "Angle Relationships in Circles",
+                    "body": "Learn about angle relationships in circles, such as angles formed by tangents and chords..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Circle Theorems",
+                "pages": [
+                  {
+                    "title": "Chord Properties",
+                    "body": "Understand the properties of chords in a circle, including the perpendicular bisector theorem..."
+                  },
+                  {
+                    "title": "Tangent Properties",
+                    "body": "Explore the properties of tangents, including the tangent-secant theorem..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "5",
+            "title": "Transformations",
+            "summary": "Learn about geometric transformations, including translations, rotations, reflections, and dilations.",
+            "url": "sampleURL5",
+            "duration": "2:15:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "Translations",
+                "pages": [
+                  {
+                    "title": "Understanding Translations",
+                    "body": "Learn how to move a shape from one location to another without changing its size or orientation..."
+                  },
+                  {
+                    "title": "Performing Translations",
+                    "body": "Practice translating shapes on a coordinate plane..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Rotations",
+                "pages": [
+                  {
+                    "title": "Understanding Rotations",
+                    "body": "Explore how to rotate shapes around a fixed point by a certain angle..."
+                  },
+                  {
+                    "title": "Performing Rotations",
+                    "body": "Practice rotating shapes on a coordinate plane by different angles..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Reflections and Symmetry",
+                "pages": [
+                  {
+                    "title": "Understanding Reflections",
+                    "body": "Learn how to reflect shapes across a line to create a mirror image..."
+                  },
+                  {
+                    "title": "Identifying Symmetry",
+                    "body": "Understand the concept of symmetry and how to identify lines of symmetry in different shapes..."
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "title": "Dilations",
+                "pages": [
+                  {
+                    "title": "Understanding Dilations",
+                    "body": "Learn how to resize shapes while keeping their proportions consistent..."
+                  },
+                  {
+                    "title": "Performing Dilations",
+                    "body": "Practice dilating shapes on a coordinate plane and understanding scale factors..."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": "6",
+            "title": "Coordinate Geometry",
+            "summary": "Study the relationship between algebra and geometry through the coordinate plane.",
+            "url": "sampleURL6",
+            "duration": "2:30:00",
+            "sections": [
+              {
+                "id": 1,
+                "title": "The Coordinate Plane",
+                "pages": [
+                  {
+                    "title": "Plotting Points",
+                    "body": "Learn how to plot points on the coordinate plane using ordered pairs..."
+                  },
+                  {
+                    "title": "Distance Formula",
+                    "body": "Understand how to calculate the distance between two points using the distance formula..."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Slope and Equations of Lines",
+                "pages": [
+                  {
+                    "title": "Understanding Slope",
+                    "body": "Explore the concept of slope and how it describes the steepness of a line..."
+                  },
+                  {
+                    "title": "Equations of Lines",
+                    "body": "Learn about the different forms of linear equations, including slope-intercept and point-slope forms..."
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Midpoint and Partitioning a Line Segment",
+                "pages": [
+                  {
+                    "title": "Midpoint Formula",
+                    "body": "Learn how to find the midpoint of a line segment using the midpoint formula..."
+                  },
+                  {
+                    "title": "Partitioning a Segment",
+                    "body": "Understand how to divide a line segment into a given ratio using coordinate geometry..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  
