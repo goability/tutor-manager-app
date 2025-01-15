@@ -14,7 +14,7 @@ import Login from './components/Login';
 const App: React.FC = () => {
   return (
     <Router>
-      <div>
+
         <NavBar />
         <Routes>
           <Route path="/about" element={<AboutUs />} />
@@ -24,7 +24,7 @@ const App: React.FC = () => {
           <Route path="/courses/:course_name/page/:page_name" element={<Page page_name='math'/>} />
         <Route path="/login" element={<Login/>}/>
         </Routes>
-      </div>
+
       <Footer/>
     </Router>
   );
