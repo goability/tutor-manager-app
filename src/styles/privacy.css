@@ -1,0 +1,33 @@
+a {
+    color: darkblue;
+}
+.Privacy {
+    text-align: center;
+    border-radius: 2rem;
+}
+
+.Privacy-header {
+    padding: 5px;
+    background-color: #ffffff;
+    font-size: xx-small;
+}
+
+.Privacy-main {
+    padding: 5px;
+    text-align: center;
+    background-color: #b4efd6d5;
+    border-radius: 3rem;
+}
+
+.Privacy-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+
+    margin-bottom: 100px;
+
+}
+
+
